@@ -1,5 +1,4 @@
 -- Base do BD
-DROP DATABASE IF EXISTS bancoV2;
 CREATE DATABASE IF NOT EXISTS bancoV2;
 USE bancoV2;
 ----------
